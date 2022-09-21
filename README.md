@@ -11,7 +11,8 @@
 **Week1**
 
 **Week2**
-* [test1](https://github.com/Manchien/PL/blob/main/Python01.ipynb)
+* [test1](https://github.com/Manchien/PL/blob/main/Python_test01.ipynb)
+* [python1](https://github.com/Manchien/PL/blob/main/Python01.ipynb)
 
 **week3**
 
