@@ -1,7 +1,7 @@
 # 111-1程式語言
-> 授課老師：蔡芸琤
+> 授課老師：**蔡芸琤**
 # About me
-* 姓名：徐嫚謙
+* 姓名：**徐嫚謙**
 * 系級：科技系114級
 ---
 * [`課程筆記區`](https://github.com/Manchien/web/blob/main/README.md#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
