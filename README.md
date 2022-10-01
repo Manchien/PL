@@ -23,8 +23,8 @@
 * [政府資料開放平台](https://data.gov.tw/)、[World Bank](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update?cid=eap_ga_asiapacific_en_extp_fall22&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb-GV4lNixQd1ZXZ8mdTY246zx7T6XVNZJTE5xTX6z8aePzOjCgSHrRoCuVwQAvD_BwE)
 ### Week4
 > Python：dictionary
-> [dictionary example](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_%E7%B7%B4%E7%BF%92%E8%A7%A3%E7%AD%94.ipynb)
-> Practice：[Python02](https://github.com/Manchien/PL/blob/main/0929Python02.ipynb)
+* [dictionary example](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_%E7%B7%B4%E7%BF%92%E8%A7%A3%E7%AD%94.ipynb)
+* Practice：[Python02](https://github.com/Manchien/PL/blob/main/0929Python02.ipynb)
 
 ## 作業連結
 ## 專題連結
