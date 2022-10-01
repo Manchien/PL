@@ -20,7 +20,7 @@
 * [python1](https://github.com/Manchien/PL/blob/main/Python01.ipynb)
 ### week3
 > Python：list、set
-* [Python範例](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02)
+* [Python範例](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02)、[Pandas example](https://github.com/pecu/PL/blob/main/Python01.ipynb)
 * [政府資料開放平台](https://data.gov.tw/)、[World Bank](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update?cid=eap_ga_asiapacific_en_extp_fall22&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb-GV4lNixQd1ZXZ8mdTY246zx7T6XVNZJTE5xTX6z8aePzOjCgSHrRoCuVwQAvD_BwE)
 ### Week4
 
