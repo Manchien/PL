@@ -27,5 +27,6 @@
 * Practice：[W4Python02](https://github.com/Manchien/PL/blob/main/W4Python02.ipynb)
 * What is [JSON](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/JSON)
 ## 作業連結
+[作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)
 ## 專題連結
 
