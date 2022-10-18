@@ -18,7 +18,7 @@
 * Solve code problems：[GeeksforGeeks](https://www.geeksforgeeks.org/)、[StackOverflow](https://stackoverflow.com/)
 * Practice：[W2test1](https://github.com/Manchien/PL/blob/main/W2Python_test01.ipynb)、[W2Python1](https://github.com/Manchien/PL/blob/main/W2Python01.ipynb)
 ### week3
-> Python：list、set、dataframe
+> CSV、Python：list、set、dataframe
 * [Python範例](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02)、[Pandas example](https://github.com/pecu/PL/blob/main/Python01.ipynb)
 * [政府資料開放平台](https://data.gov.tw/)、[World Bank](https://www.worldbank.org/en/publication/east-asia-and-pacific-economic-update?cid=eap_ga_asiapacific_en_extp_fall22&gclid=CjwKCAjwp9qZBhBkEiwAsYFsb-GV4lNixQd1ZXZ8mdTY246zx7T6XVNZJTE5xTX6z8aePzOjCgSHrRoCuVwQAvD_BwE)
 ### Week4
@@ -28,6 +28,9 @@
 * What is [JSON](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/JSON)
 ### Week5
 > Json、Python：dictionary、巢狀結構
+* [在Python裡讀JSON-01](https://www.geeksforgeeks.org/read-json-file-using-python/)、[在Python裡讀JSON-02](https://ithelp.ithome.com.tw/articles/10220160)
+* [CSV、JSON轉檔](https://csvjson.com/)、[Json parser online](http://json.parser.online.fr/)
+* 文章閱讀：[資料釋出消息](https://srda.sinica.edu.tw/filepool/Tbemagzinecontflatt/212.pdf)
 * [hw2範例01](https://github.com/pecu/PL/blob/main/HW2.ipynb)、[hw2範例02](https://github.com/pecu/PL/blob/main/Python03.ipynb)、
 ## 作業連結
 [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)
