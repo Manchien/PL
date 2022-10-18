@@ -26,6 +26,9 @@
 * [dictionary example1](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C1_Python_%E5%9F%BA%E7%A4%8E_02/python_%E5%9F%BA%E7%A4%8E%E7%B5%84%E5%90%88%E4%BA%8C_%E7%B7%B4%E7%BF%92%E8%A7%A3%E7%AD%94.ipynb)、[dictionary 例題應用](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C2_Python_%E5%9F%BA%E7%A4%8E_03%2604)、[dictionary example2](https://github.com/pecu/PL/blob/main/Python03.ipynb)
 * Practice：[W4Python02](https://github.com/Manchien/PL/blob/main/W4Python02.ipynb)
 * What is [JSON](https://developer.mozilla.org/zh-TW/docs/Learn/JavaScript/Objects/JSON)
+### Week5
+> Json、Python：dictionary、巢狀結構
+* [hw2範例01](https://github.com/pecu/PL/blob/main/HW2.ipynb)、[hw2範例02](https://github.com/pecu/PL/blob/main/Python03.ipynb)、
 ## 作業連結
 [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)
 ## 專題連結
