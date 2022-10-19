@@ -34,6 +34,6 @@
 * [hw2範例01](https://github.com/pecu/PL/blob/main/HW2.ipynb)、[hw2範例02](https://github.com/pecu/PL/blob/main/Python03.ipynb)
 ## 作業連結
 * [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)`醫院癌症資源與篩檢`
-* [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`各類初任人員每人每月平均經常性薪資查詢與排序`
+* [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
 ## 專題連結
 
