@@ -33,8 +33,11 @@
 * 文章閱讀：[資料釋出消息](https://srda.sinica.edu.tw/filepool/Tbemagzinecontflatt/212.pdf)
 * [hw2範例01](https://github.com/pecu/PL/blob/main/HW2.ipynb)、[hw2範例02](https://github.com/pecu/PL/blob/main/Python03.ipynb)
 ### Week6
-* [JSON圖形狀](https://jsoncrack.com/editor)
+> 資料正則化
+* 視覺化工具：[JSON圖像化](https://jsoncrack.com/editor)、[RegExr](https://regexr.com/)
 * [Dictionaries語法查詢](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
+* About RegExr：[R-atique](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
+* Notes：[正規表達法](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)
 ## 作業連結
 * [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)`醫院癌症資源與篩檢`
 * [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
