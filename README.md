@@ -33,6 +33,7 @@
 * 文章閱讀：[資料釋出消息](https://srda.sinica.edu.tw/filepool/Tbemagzinecontflatt/212.pdf)
 * [hw2範例01](https://github.com/pecu/PL/blob/main/HW2.ipynb)、[hw2範例02](https://github.com/pecu/PL/blob/main/Python03.ipynb)
 ### Week6
+* [JSON圖形狀](https://jsoncrack.com/editor)
 * [Dictionaries語法查詢](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 ## 作業連結
 * [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)`醫院癌症資源與篩檢`
