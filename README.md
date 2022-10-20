@@ -31,7 +31,7 @@
 * [在Python裡讀JSON-01](https://www.geeksforgeeks.org/read-json-file-using-python/)、[在Python裡讀JSON-02](https://ithelp.ithome.com.tw/articles/10220160)
 * [CSV、JSON轉檔](https://csvjson.com/)、[Json parser online](http://json.parser.online.fr/)
 * 文章閱讀：[資料釋出消息](https://srda.sinica.edu.tw/filepool/Tbemagzinecontflatt/212.pdf)
-* [hw2範例01](https://github.com/pecu/PL/blob/main/HW2.ipynb)、[hw2範例02](https://github.com/pecu/PL/blob/main/Python03.ipynb)
+* 範例：[hw2範例01](https://github.com/pecu/PL/blob/main/HW2.ipynb)、[hw2範例02](https://github.com/pecu/PL/blob/main/Python03.ipynb)
 ### Week6
 > 資料正則化
 * 視覺化工具：[JSON圖像化](https://jsoncrack.com/editor)、[RegExr](https://regexr.com/)
