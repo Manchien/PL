@@ -40,7 +40,7 @@
 * Notes：[正規表達法](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)
 ### Week7
 > 爬蟲
-* [nbviewer](https://nbviewer.org/)
+* 如果資料量太大，Github打不開的話使用：[nbviewer](https://nbviewer.org/)
 * YouTube resources：[Python 網路爬蟲](https://www.youtube.com/watch?v=9Z9xKWfNo7k)、[網路爬蟲實戰教學](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)
 * 範例：[PTT 網路版爬蟲](https://github.com/jwlin/ptt-web-crawler)、[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler)
 ## 作業連結
