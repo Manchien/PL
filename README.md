@@ -50,5 +50,6 @@
 ## 作業連結
 * [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)`醫院癌症資源與篩檢`
 * [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
+* [作業三](https://github.com/Manchien/PL/blob/main/.ipynb_checkpoints/HW03-checkpoint.ipynb)`博客來網頁暢銷書的爬蟲`
 ## 專題連結
 
