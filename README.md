@@ -43,6 +43,10 @@
 * 如果資料量太大，Github打不開的話使用：[nbviewer](https://nbviewer.org/)
 * YouTube resources：[Python 網路爬蟲](https://www.youtube.com/watch?v=9Z9xKWfNo7k)、[網路爬蟲實戰教學](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)
 * 範例：[PTT 網路版爬蟲](https://github.com/jwlin/ptt-web-crawler)、[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler)、[裁判家爬蟲範例](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C4_Python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2/python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2_code.ipynb)
+### Week8
+> Python 文字探勘
+* [資料彙整與資料視覺化](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)、
+* 資料視覺化：[Plotly](https://plotly.com/python/)
 ## 作業連結
 * [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)`醫院癌症資源與篩檢`
 * [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
