@@ -37,12 +37,12 @@
 * 視覺化工具：[JSON圖像化](https://jsoncrack.com/editor)、[RegExr](https://regexr.com/)
 * [Dictionaries語法查詢](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-dictionaries/cheatsheet)
 * About RegExr：[R-atique](http://perso.ens-lyon.fr/lise.vaudor/strings-et-expressions-regulieres/?fbclid=IwAR0IHvNKp43Qrfo0TqpolYPpMUfViSrCBDY8SmBveKm01yZ6PzHPxspVaNI)
-* Notes：[正規表達法](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)
+* Notes：[正規表達法](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96/python_%E8%B3%87%E6%96%99%E6%AD%A3%E5%89%87%E5%8C%96_code.ipynb)、[練習題](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C3_Python_%E8%B3%87%E6%96%99%E6%AD%A3%E8%A6%8F%E5%8C%96)
 ### Week7
 > 爬蟲
 * 如果資料量太大，Github打不開的話使用：[nbviewer](https://nbviewer.org/)
 * YouTube resources：[Python 網路爬蟲](https://www.youtube.com/watch?v=9Z9xKWfNo7k)、[網路爬蟲實戰教學](https://www.youtube.com/playlist?list=PLohb4k71XnPaQRTvKW4Uii1oq-JPGpwWF)
-* 範例：[PTT 網路版爬蟲](https://github.com/jwlin/ptt-web-crawler)、[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler)
+* 範例：[PTT 網路版爬蟲](https://github.com/jwlin/ptt-web-crawler)、[google-scholar-crawler](https://github.com/linhung0319/google-scholar-crawler)、[裁判家爬蟲範例](https://github.com/pecu/LawTech/blob/main/Learning-Materials/C4_Python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2/python_%E7%B6%B2%E8%B7%AF%E7%88%AC%E8%9F%B2_code.ipynb)
 ## 作業連結
 * [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)`醫院癌症資源與篩檢`
 * [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
