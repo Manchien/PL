@@ -49,7 +49,7 @@
 * 資料視覺化：[Plotly](https://plotly.com/python/)
 ### Week9 
 > Python 文字探勘
-* 
+* [文字探勘](https://www.tibco.com/zh-hant/reference-center/what-is-text-mining)
 ## 作業連結
 * [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)`醫院癌症資源與篩檢`
 * [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
