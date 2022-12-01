@@ -58,6 +58,6 @@
 * [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
 * [作業三](https://github.com/Manchien/PL/blob/main/.ipynb_checkpoints/HW03-checkpoint.ipynb)`博客來網頁暢銷書的爬蟲`
 * [作業四程式碼](https://github.com/Manchien/PL/blob/main/.ipynb_checkpoints/HW04-checkpoint.ipynb)、[作業四medium](https://medium.com/@manchien1105/%E5%8F%B0%E7%81%A3%E7%89%B9%E8%89%B2%E6%9B%B8%E5%BA%97%E6%94%B6%E9%8C%84%E6%95%B4%E7%90%86-80067454fc81)
-* [作業五程式碼]()、[作業五medium]()
+* [作業五程式碼]()、[作業五medium](https://medium.com/@manchien1105/%E5%8F%B0%E7%81%A3%E7%89%B9%E8%89%B2%E6%9B%B8%E5%BA%97%E6%94%B6%E9%8C%84%E6%95%B4%E7%90%86-%E5%81%9A%E5%87%BA%E7%86%B1%E9%BB%9E%E5%9C%96-a906fabcd2bf)
 ## 專題連結
 
