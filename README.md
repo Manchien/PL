@@ -51,8 +51,8 @@
 * [文本挖掘系统 Text Mining System](https://github.com/lining0806/TextMining)
 * note：[TextRank — 文字探勘](https://danjtchen.medium.com/textrank-%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98-%E6%89%BE%E5%87%BA%E9%97%9C%E9%8D%B5%E5%AD%97-%E4%BB%A5-%E5%85%AB%E5%8D%A6%E7%89%88%E6%A8%99%E9%A1%8C%E7%82%BA%E4%BE%8B-b16620370872)、[Python 套件比較：繁體中文斷字](https://peilee-98185.medium.com/python-%E5%A5%97%E4%BB%B6%E6%AF%94%E8%BC%83-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E6%96%B7%E5%AD%97-4e7a452138f8)
 ## 作業連結
-* [作業一](https://github.com/Manchien/PL/blob/main/HW1.ipynb)`醫院癌症資源與篩檢`
-* [作業二](https://github.com/Manchien/PL/blob/main/HW2.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
+* [作業一](https://github.com/Manchien/PL/blob/main/HW01.ipynb)`醫院癌症資源與篩檢`
+* [作業二](https://github.com/Manchien/PL/blob/main/HW02.ipynb)`查詢與排序：各類初任人員每人每月平均經常性薪資`
 * [作業三](https://github.com/Manchien/PL/blob/main/.ipynb_checkpoints/HW03-checkpoint.ipynb)`博客來網頁暢銷書的爬蟲`
 * [作業四程式碼](https://github.com/Manchien/PL/blob/main/.ipynb_checkpoints/HW04-checkpoint.ipynb)、[作業四medium](https://medium.com/@manchien1105/%E5%8F%B0%E7%81%A3%E7%89%B9%E8%89%B2%E6%9B%B8%E5%BA%97%E6%94%B6%E9%8C%84%E6%95%B4%E7%90%86-80067454fc81)
 * [作業五程式碼](https://github.com/Manchien/PL/blob/main/HW05.ipynb)、[作業五medium](https://medium.com/@manchien1105/%E5%8F%B0%E7%81%A3%E7%89%B9%E8%89%B2%E6%9B%B8%E5%BA%97%E6%94%B6%E9%8C%84%E6%95%B4%E7%90%86-%E5%81%9A%E5%87%BA%E7%86%B1%E9%BB%9E%E5%9C%96-a906fabcd2bf)
